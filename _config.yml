@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peiliang Gong (公沛良)"
+title                    : "Peiliang Gong Homepage"
 title_separator          : "-"
 name                     : &name "Peiliang Gong"
 description              : &description "Ph.D at NUAA"
@@ -23,7 +23,7 @@ repository               : "Tokenmw/Tokenmw.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Peiliang Gong"
+  name             : "Peiliang Gong (公沛良)"
   # pronouns         : # example: "she/her"  
   bio              : "Ph.D at NUAA"
   location         : "Nanjing, China"
