@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peiliang Gong Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Peiliang Gong"
 description              : &description "Ph.D at NUAA"
