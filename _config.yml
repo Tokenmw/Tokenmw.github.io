@@ -27,7 +27,7 @@ author:
   # pronouns         : # example: "she/her"  
   bio              : "Ph.D at NUAA"
   location         : "Nanjing, China"
-  employer         : "NUAA"
+  employer         : # "NUAA"
   # uri              : # URL
   email            : "plgong@nuaa.edu.cn" 
 
