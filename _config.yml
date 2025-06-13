@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Peiliang Gong"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Peiliang Gong"
 description              : &description "Peiliang Gong"
