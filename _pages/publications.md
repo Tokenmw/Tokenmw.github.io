@@ -67,6 +67,9 @@ author_profile: true
 
   <li>ASTDF-net: Attention-based spatial-temporal dual-stream fusion network for EEG-based emotion recognition.<br><b>Peiliang Gong</b>, Ziyu Jia, Pengpai Wang, Yueying Zhou, Daoqiang Zhang<br>In: Proceedings of the 31st ACM international conference on multimedia (<strong>MM'23</strong>), 2023.<br>[<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612208">preprint</a>]
   </li>
+
+  <li>Deep Domain Adaptation for EEG-Based Cross-Subject Cognitive Workload Recognition.<br>Yueying Zhou, Pengpai Wang, <b>Peiliang Gong</b>, Yanling Liu, Xuyun Wen, Xia Wu, Daoqiang Zhang<br>In: Proceedings of International Conference on Neural Information Processing (<strong>ICONIP'22</strong>), 2022.<br>[<a href="https://link.springer.com/chapter/10.1007/978-981-99-1642-9_20">preprint</a>]
+  </li>
 </ul>
 </div>
 
