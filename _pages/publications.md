@@ -35,6 +35,21 @@ author_profile: true
 
   <li>TFAC-Net: a temporal-frequential attentional convolutional network for driver drowsiness recognition with single-channel EEG.<br><b>Peiliang Gong</b>, Pengpai Wang, Yueying Zhou, Xuyun Wen, Daoqiang Zhang<br>In: IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>), 2024. <br>[<a href="https://ieeexplore.ieee.org/abstract/document/10533850/">preprint</a>]
   </li>
+  
+  <li>Cross-subject cognitive workload recognition based on EEG and deep domain adaptation.<br>Yueying Zhou, Pengpai Wang, <b>Peiliang Gong</b>, Fulin Wei, Xuyun Wen, Xia Wu, Daoqiang Zhang<br>In: IEEE Transactions on Instrumentation and Measurement (<strong>TIM</strong>), 2024. <br>[<a href="https://ieeexplore.ieee.org/abstract/document/10163950/">preprint</a>]
+  </li>
+
+  <li>A spiking neural network with adaptive graph convolution and LSTM for EEG-based brain-computer interfaces.<br><b>Peiliang Gong</b>, Pengpai Wang, Yueying Zhou, Daoqiang Zhang<br>In: IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>), 2023. <br>[<a href="https://ieeexplore.ieee.org/abstract/document/10049464">preprint</a>]
+  </li>
+  
+  <li>A temporal-spectral fused and attention-based deep model for automatic sleep staging.<br>Guidan Fu, Yueying Zhou, <b>Peiliang Gong</b>, Pengpai Wang, Wei Shao, Daoqiang Zhang<br>In: IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>), 2023. <br>[<a href="https://ieeexplore.ieee.org/abstract/document/10024753">preprint</a>]
+  </li>
+
+  <li>Decoding the continuous motion imagery trajectories of upper limb skeleton points for EEG-based brain–computer interface.<br>Pengpai Wang, <b>Peiliang Gong</b>, Yueying Zhou, Xuyun Wen, Daoqiang Zhang<br>In: IEEE Transactions on Instrumentation and Measurement (<strong>TIM</strong>), 2022. <br>[<a href="https://ieeexplore.ieee.org/abstract/document/9964307/">preprint</a>]
+  </li>
+
+  <li>Two-order approximate spectral convolutional model for semi-supervised classification.<br>Pengpai Wang, <b>Peiliang Gong</b>, Lihua Ai<br>In: Acta Automatica Sinica (<strong>自动化学报</strong>), 2021. <br>[<a href="http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200040">preprint</a>]
+  </li>
 </ul>
 
 
