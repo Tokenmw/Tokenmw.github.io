@@ -43,6 +43,15 @@ author_profile: true
 <ul style="list-style-type:disc">
   <li>Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation.<br><b>Peiliang Gong</b>, Yucheng Wang, Min Wu, Zhenghua Chen, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), in press, 2025.<br>[<a href="https://arxiv.org/abs/2505.21525">preprint</a>]
   </li>
+
+  <li>Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation.<br><b>Peiliang Gong</b>, Mohamed Ragab, Min Wu, Zhenghua Chen, Yongyi Su, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), 2025.<br>[<a href="https://dl.acm.org/doi/10.1145/3690624.3709239">preprint</a>]
+  </li>
+
+  <li>CLIP-guided Source-free Object Detection in Aerial Images.<br>Nanqing Liu, Xun Xu, Yongyi Su, Chengxin Liu, <b>Peiliang Gong</b>, Heng-Chao Li<br>In: Proceedings of the International Geoscience and Remote Sensing Symposium (<strong>IGARSS'24</strong>), 2024.<br>[<a href="https://ieeexplore.ieee.org/abstract/document/10642376/">preprint</a>]
+  </li>
+
+  <li>ASTDF-net: Attention-based spatial-temporal dual-stream fusion network for EEG-based emotion recognition.<br><b>Peiliang Gong</b>, Ziyu Jia, Pengpai Wang, Yueying Zhou, Daoqiang Zhang<br>In: Proceedings of the 31st ACM international conference on multimedia (<strong>MM'23</strong>), 2023.<br>[<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612208">preprint</a>]
+  </li>
 </ul>
 </div>
 
