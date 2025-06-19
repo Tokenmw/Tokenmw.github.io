@@ -1,5 +1,5 @@
 <!-- News section -->
-<div id="news" style="font-family: 'Times New Roman', serif; text-align: justify; margin-top: 20px;">
+<div id="news" style="font-family: 'Times New Roman', serif; text-align: justify;">
 <h2>🔥 News</h2>
 <ul style="list-style-type: disc; margin-left: 15px;">
   <li>2025.05: One paper accepted by ACM KDD.</li>
