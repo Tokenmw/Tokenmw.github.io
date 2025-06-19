@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 <div style="font-family: 'Times New Roman', serif;">
-  
-I am a PhD student in the [iBRAIN Lab](https://ibrain.nuaa.edu.cn/) at Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Daoqiang Zhang](https://parnec.nuaa.edu.cn/zhangdq/). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021, and was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by [Prof. Xiaoli Li](https://personal.ntu.edu.sg/xlli/).
-
+I am a PhD student in the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang<a/>. I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021, and was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a>.
+<br><br>
 My research interests mainly include sensor-based time series, brain-computer interface, domain adaptation, and foundation models/LLMs.
-
 </div>
 
 <div style="font-family: 'Times New Roman', serif; color:  red;">
