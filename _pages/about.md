@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [iBRAIN Lab](https://ibrain.nuaa.edu.cn/) at Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Daoqiang Zhang](https://parnec.nuaa.edu.cn/zhangdq/). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021, and was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by [Prof. Xiaoli Li](https://personal.ntu.edu.sg/xlli/).
+<font face='Times New Roman'>I am a PhD student in the [iBRAIN Lab](https://ibrain.nuaa.edu.cn/) at Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Daoqiang Zhang](https://parnec.nuaa.edu.cn/zhangdq/). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021, and was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by [Prof. Xiaoli Li](https://personal.ntu.edu.sg/xlli/).</font>
 
-My research interests mainly include sensor-based time series, brain-computer interface, domain adaptation, and foundation models/LLMs.
+<font face='Times New Roman'>My research interests mainly include sensor-based time series, brain-computer interface, domain adaptation, and foundation models/LLMs.</font>
 
 <font color='red'>If you want to collaborate with me or explore internship opportunities, feel free to reach out!</font>
