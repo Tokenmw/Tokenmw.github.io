@@ -13,6 +13,8 @@ I am a PhD student in the [iBRAIN Lab](https://ibrain.nuaa.edu.cn/) at Nanjing U
 
 My research interests mainly include sensor-based time series, brain-computer interface, domain adaptation, and foundation models/LLMs.
 
-<span style="color: red;"> If you want to collaborate with me or explore internship opportunities, feel free to reach out! </span>
+</div>
 
+<div style="font-family: 'Times New Roman', serif; color:  red;">
+If you want to collaborate with me or explore internship opportunities, feel free to reach out!
 </div>
