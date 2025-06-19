@@ -8,7 +8,7 @@ author_profile: true
 <div style="font-family: 'Times New Roman', serif; text-align: justify;">
 
 <h2>🔍 Journal Reviewer</h2>
-<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4;">
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
   <li style="margin-bottom: 8px;">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Cybernetics (<strong>TCYB</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Affective Computing (<strong>TAFFC</strong>)</li>
@@ -21,13 +21,13 @@ author_profile: true
   <li style="margin-bottom: 8px;">IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Artificial Intelligence (<strong>TAI</strong>)</li>
   <li style="margin-bottom: 8px;">Neural Networks (<strong>NN</strong>)</li>
+  <li style="margin-bottom: 8px;">Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Access</li>
   <li style="margin-bottom: 8px;">Brain Connectivity</li>
-  <li style="margin-bottom: 8px;">Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>)</li>
 </ul>
 
 <h2>📝 Conference Reviewer</h2>
-<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.4;">
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
   <li style="margin-bottom: 8px;">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</li>
   <li style="margin-bottom: 8px;">International Conference on Machine Learning (<strong>ICML</strong>)</li>
   <li style="margin-bottom: 8px;">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</li>
