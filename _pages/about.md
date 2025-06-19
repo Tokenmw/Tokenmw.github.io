@@ -16,3 +16,5 @@ redirect_from:
 <div style="font-family: 'Times New Roman', serif; color: red; text-align: justify;">
 If you want to collaborate with me or explore internship opportunities, feel free to reach out!
 </div>
+
+{% include_relative news.md %}
