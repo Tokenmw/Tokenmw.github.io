@@ -31,9 +31,9 @@ If you want to collaborate with me or explore internship opportunities, feel fre
 {% include_relative news.md %}
 
 <!-- Visitor Map -->
-<div style="font-family: 'Times New Roman', serif; margin-top: 50px; padding-top: 30px; border-top: 1px solid #eee;">
+<div style="font-family: 'Times New Roman', serif;">
 <h2>🌍 Visitors Map</h2>
-<div style="text-align: center; margin-top: 20px; transform: scale(0.7); transform-origin: top center;">
+<div style="text-align: center; margin-top: 20px; transform: scale(0.4); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
 </div>
 </div>
