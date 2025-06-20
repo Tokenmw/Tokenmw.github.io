@@ -16,6 +16,7 @@ html {
 }
 </style>
 
+<!-- About Me -->
 <div style="font-family: 'Times New Roman', serif; text-align: justify;">
 <p>I am a PhD student in the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a>. I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021, and was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a>.</p>
 
@@ -26,12 +27,13 @@ html {
 If you want to collaborate with me or explore internship opportunities, feel free to reach out!
 </div>
 
+<!-- News -->
 {% include_relative news.md %}
 
 <!-- Visitor Map -->
-<div style="font-family: 'Times New Roman', serif; text-align: center; margin-top: 50px; padding-top: 30px; border-top: 1px solid #eee;">
+<div style="font-family: 'Times New Roman', serif; margin-top: 50px; padding-top: 30px; border-top: 1px solid #eee;">
 <h2>🌍 Visitors Map</h2>
-<div style="margin-top: 20px;">
+<div style="text-align: center; margin-top: 20px; transform: scale(0.7); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
 </div>
 </div>
