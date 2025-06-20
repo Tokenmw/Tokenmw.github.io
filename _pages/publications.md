@@ -11,7 +11,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-<h2>📝Selected Publications</h2>
+<h2>📝 Selected Publications</h2>
 
 <h3>Preprints</h3>
 
@@ -48,7 +48,7 @@ author_profile: true
   <li>Decoding the continuous motion imagery trajectories of upper limb skeleton points for EEG-based brain–computer interface.<br>Pengpai Wang, <b>Peiliang Gong</b>, Yueying Zhou, Xuyun Wen, Daoqiang Zhang<br>In: IEEE Transactions on Instrumentation and Measurement (<strong>TIM</strong>), 2022. [<a href="https://ieeexplore.ieee.org/abstract/document/9964307/">preprint</a>]
   </li>
 
-  <li>Two-order approximate spectral convolutional model for semi-supervised classification.<br>Pengpai Wang, <b>Peiliang Gong</b>, Lihua Ai<br>In: Acta Automatica Sinica (<strong>自动化学报</strong>), 2021. [<a href="http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200040">preprint</a>]
+  <li>Two-order approximate spectral convolutional model for semi-supervised classification.<br><b>Peiliang Gong</b>, Lihua Ai<br>In: Acta Automatica Sinica (<strong>自动化学报</strong>), 2021. [<a href="http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200040">preprint</a>]
   </li>
 </ul>
 
