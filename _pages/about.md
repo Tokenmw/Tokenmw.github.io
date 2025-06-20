@@ -11,9 +11,6 @@ redirect_from:
 html {
   scroll-behavior: smooth;
 }
-#news {
-  scroll-margin-top: 20px; /* 调整这个值来控制距离顶部的距离 */
-}
 </style>
 
 <!-- About Me -->
@@ -31,7 +28,7 @@ If you want to collaborate with me or explore internship opportunities, feel fre
 {% include_relative news.md %}
 
 <!-- Visitor Map -->
-<div style="font-family: 'Times New Roman', serif; margin-top: 10px;">
+<div style="font-family: 'Times New Roman', serif;">
 <h2>🌍 Visitors Map</h2>
 <div style="text-align: center; transform: scale(0.3); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
