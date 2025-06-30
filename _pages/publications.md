@@ -56,6 +56,9 @@ author_profile: true
 <h3>Conference</h3>
 
 <ul style="list-style-type:disc">
+  <li>A Dual-Branch Riemannian Learning Network for EEG Speech Imagery Decoding.<br>Liying Zhang, <b>Peiliang Gong</b>, Qianru Sun, Yueying Zhou, Qi Zhu, Daoqiang Zhang<br>In: Proceedings of International Conference on Neural Information Processing (<strong>ICONIP'25</strong>), 2025. [<a href="https://link.springer.com/chapter/10.1007/978-981-96-6606-5_23">preprint</a>]
+  </li>
+  
   <li>Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation.<br><b>Peiliang Gong</b>, Yucheng Wang, Min Wu, Zhenghua Chen, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), in press, 2025. [<a href="https://arxiv.org/abs/2505.21525">preprint</a>]
   </li>
 
