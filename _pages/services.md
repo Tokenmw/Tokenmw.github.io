@@ -21,7 +21,7 @@ author_profile: true
   <li style="margin-bottom: 8px;">IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Artificial Intelligence (<strong>TAI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Human-Machine Systems (<strong>THMS</strong>)</li>
-  <li style="margin-bottom: 8px;">Transactions on Applied Perception (<strong>TAP</strong>)</li>
+  <li style="margin-bottom: 8px;">ACM Transactions on Applied Perception (<strong>TAP</strong>)</li>
   <li style="margin-bottom: 8px;">Neural Networks (<strong>NN</strong>)</li>
   <li style="margin-bottom: 8px;">Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Access</li>
