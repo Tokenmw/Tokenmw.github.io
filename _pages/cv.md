@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Peiliang Gong"
 permalink: /cv/
 redirect_from:
   - /resume
