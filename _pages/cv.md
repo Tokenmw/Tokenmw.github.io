@@ -1,64 +1,37 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Peiliang Gong"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-{% include base_path %}
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- About Me -->
+<div style="font-family: 'Times New Roman', serif; text-align: justify;">
+<p>I am a PhD student in the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a>. I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021. During my PhD studies, I was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a>.</p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<p>My research interests mainly include Sensor-based time series, Brain-computer interface, Domain adaptation, and Foundation models/LLMs.</p>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<div style="font-family: 'Times New Roman', serif; color: red; text-align: justify;">
+If you want to collaborate with me or explore internship opportunities, feel free to reach out!
+</div>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<!-- News -->
+{% include_relative news.md %}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Visitor Map -->
+<div style="font-family: 'Times New Roman', serif; margin-top: -50px;">
+<h2>🌍 Visitors Map</h2>
+<div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
+</div>
+</div>
+
