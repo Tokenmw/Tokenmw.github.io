@@ -27,6 +27,9 @@ author_profile: true
 <h3>Journal</h3>
 
 <ul style="list-style-type:disc">
+  <li>ACCNet: Adaptive Cross-frequency Coupling Graph Attention for EEG Emotion Recognition.<br>Dongyuan Tian, Yucheng Wang, <b>Peiliang Gong</b>, Zhewen Xu, Zhenghua Chen, Xiaohui Wei, Min Wu<br>In: Neural Networks (<strong>NN</strong>), in press, 2025. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608025007336">preprint</a>]
+  </li>
+  
   <li>Attention Detection Using EEG Signals and Machine Learning: A Review.<br>Qianru Sun, Yueying Zhou, <b>Peiliang Gong</b>, Daoqiang Zhang<br>In: Machine Intelligence Research (<strong>MIR</strong>), 2025. [<a href="https://link.springer.com/article/10.1007/s11633-024-1492-6">preprint</a>]
   </li>
 
