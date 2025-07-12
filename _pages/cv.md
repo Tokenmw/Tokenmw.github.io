@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: "Peiliang Gong"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: archive
+title: "CV"
+permalink: /cv/
+redirect_from:
+  - /resume
 ---
 
 <style>
