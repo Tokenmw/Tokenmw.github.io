@@ -62,10 +62,10 @@ author_profile: true
   <li>A Dual-Branch Riemannian Learning Network for EEG Speech Imagery Decoding.<br>Liying Zhang, <b>Peiliang Gong</b>, Qianru Sun, Yueying Zhou, Qi Zhu, Daoqiang Zhang<br>In: Proceedings of International Conference on Neural Information Processing (<strong>ICONIP'25</strong>), 2025. [<a href="https://link.springer.com/chapter/10.1007/978-981-96-6606-5_23">preprint</a>]
   </li>
   
-  <li>Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation.<br><b>Peiliang Gong</b>, Yucheng Wang, Min Wu, Zhenghua Chen, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), in press, 2025. [<a href="https://arxiv.org/abs/2505.21525">preprint</a>]
+  <li>Temporal Restoration and Spatial Rewiring for Source-Free Multivariate Time Series Domain Adaptation.<br><b>Peiliang Gong</b>, Yucheng Wang, Min Wu, Zhenghua Chen, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), in press, 2025. [<a href="https://arxiv.org/abs/2505.21525">preprint</a>][<a href="https://www.youtube.com/watch?v=kbK04zFqDXg">video</a>]
   </li>
 
-  <li>Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation.<br><b>Peiliang Gong</b>, Mohamed Ragab, Min Wu, Zhenghua Chen, Yongyi Su, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), 2025. [<a href="https://dl.acm.org/doi/10.1145/3690624.3709239">preprint</a>]
+  <li>Augmented Contrastive Clustering with Uncertainty-Aware Prototyping for Time Series Test Time Adaptation.<br><b>Peiliang Gong</b>, Mohamed Ragab, Min Wu, Zhenghua Chen, Yongyi Su, Xiaoli Li, Daoqiang Zhang<br>In: Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD'25</strong>), 2025. [<a href="https://dl.acm.org/doi/10.1145/3690624.3709239">preprint</a>][<a href="https://www.youtube.com/watch?v=M3N4xle5lAo">video</a>]
   </li>
 
   <li>CLIP-guided Source-free Object Detection in Aerial Images.<br>Nanqing Liu, Xun Xu, Yongyi Su, Chengxin Liu, <b>Peiliang Gong</b>, Heng-Chao Li<br>In: Proceedings of the International Geoscience and Remote Sensing Symposium (<strong>IGARSS'24</strong>), 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10642376/">preprint</a>]
