@@ -21,9 +21,14 @@ author_profile: true
   <li style="margin-bottom: 8px;">IEEE Transactions on Emerging Topics in Computational Intelligence (<strong>TETCI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Artificial Intelligence (<strong>TAI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Human-Machine Systems (<strong>THMS</strong>)</li>
+  <li style="margin-bottom: 8px;">IEEE Transactions on Computational Social Systems (<strong>TCSS</strong>)</li>
+  <li style="margin-bottom: 8px;">IEEE Signal Processing Letters (<strong>SPL</strong>)</li>
+  <li style="margin-bottom: 8px;">ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>)</li>
   <li style="margin-bottom: 8px;">ACM Transactions on Applied Perception (<strong>TAP</strong>)</li>
   <li style="margin-bottom: 8px;">Neural Networks (<strong>NN</strong>)</li>
+  <li style="margin-bottom: 8px;">International Journal of Human-Computer Interaction (<strong>HIHC</strong>)</li>
   <li style="margin-bottom: 8px;">Engineering Applications of Artificial Intelligence (<strong>EAAI</strong>)</li>
+  <li style="margin-bottom: 8px;">Journal of Sleep Research (<strong>JOSR</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Access</li>
   <li style="margin-bottom: 8px;">Brain Connectivity</li>
 </ul>
