@@ -20,7 +20,7 @@ html {
 <p>My research interests mainly include <b>Sensor-based time series</b>, <b>Brain-computer interface</b>, <b>Domain adaptation</b>, and <b>Foundation models/LLMs</b>.</p>
 </div>
 
-<div style="font-family: 'Times New Roman', serif; font-size: 24px; color: red; text-align: justify;">
+<div style="font-family: 'Times New Roman', serif; font-size: 20px; color: red; text-align: justify;">
 If you want to collaborate with me or explore internship opportunities, feel free to reach out!
 </div>
 
