@@ -22,6 +22,7 @@ author_profile: true
   <li style="margin-bottom: 8px;">IEEE Transactions on Artificial Intelligence (<strong>TAI</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Human-Machine Systems (<strong>THMS</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Transactions on Computational Social Systems (<strong>TCSS</strong>)</li>
+  <li style="margin-bottom: 8px;">IEEE Transactions on Systems, Man and Cybernetics: Systems (<strong>SMCA</strong>)</li>
   <li style="margin-bottom: 8px;">IEEE Signal Processing Letters (<strong>SPL</strong>)</li>
   <li style="margin-bottom: 8px;">ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMM</strong>)</li>
   <li style="margin-bottom: 8px;">ACM Transactions on Applied Perception (<strong>TAP</strong>)</li>
