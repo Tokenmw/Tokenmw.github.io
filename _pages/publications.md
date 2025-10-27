@@ -18,15 +18,16 @@ author_profile: true
 <ul style="list-style-type:disc">
 <li>Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation.<br>Yucheng Wang, <b>Peiliang Gong</b>, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, Zhenghua Chen<br> arXiv:2409.19635, 2024. [<a href="https://arxiv.org/abs/2409.19635">arXiv</a>]
 </li>
-  
-<li>Evidentially calibrated source-free time-series domain adaptation with temporal imputation.<br>Mohamed Ragab*, <b>Peiliang Gong*</b>, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, Zhenghua Chen<br> arXiv:2406.02635, 2024. [<a href="https://arxiv.org/abs/2406.02635">arXiv</a>]
-</li>
+
 </ul>
 
 
 <h3>Journal</h3>
 
 <ul style="list-style-type:disc">
+  <li>Evidentially Calibrated Source-Free Time-series Domain Adaptation with Temporal Imputation.<br>Mohamed Ragab*, <b>Peiliang Gong*</b>, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, Zhenghua Chen<br> In: IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), in press, 2025. [<a href="https://ieeexplore.ieee.org/document/11208792">preprint</a>]
+  </li>
+  
   <li>EEG-CLIP: A Transformer-based Framework for EEG-guided Image Generation.<br>Xuhao Cao, <b>Peiliang Gong*</b>, Liying Zhang, Daoqiang Zhang<br>In: Neural Networks (<strong>NN</strong>), in press, 2025. [<a href="https://www.sciencedirect.com/science/article/pii/S0893608025010470">preprint</a>]
   </li>
   
