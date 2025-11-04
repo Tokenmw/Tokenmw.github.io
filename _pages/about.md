@@ -31,7 +31,7 @@ If you are interested in collaborating on topics such as time series analysis, B
 </div>
 
 <div style="font-family: 'Times New Roman', serif; font-size: 20px; text-align: justify;">
-I also welcome inquiries from <b>CSC scholarship students</b> and <b>visiting students/scholars</b> who are interested in conducting research in these areas.
+I also welcome inquiries from CSC scholarship students and visiting students/scholars who are interested in conducting research in these areas.
 </div>
 
 <!-- News -->
