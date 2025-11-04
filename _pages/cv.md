@@ -29,9 +29,9 @@ html {
 If you are interested in collaborating on topics such as time series analysis, BCI, brain foundation/LLM models, and other related areas, I warmly welcome potential collaborators and research interns—feel free to reach out!
 </div>
 
-<div style="font-family: 'Times New Roman', serif; font-size: 20px; text-align: justify;">
+<p>
 I also welcome inquiries from CSC scholarship students and visiting students/scholars who are interested in conducting research in these areas.
-</div>
+</p>
 
 <!-- News -->
 {% include_relative news.md %}
