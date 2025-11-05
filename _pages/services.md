@@ -36,12 +36,18 @@ author_profile: true
 
 <h2>📝 Conference Reviewer</h2>
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
+  <li style="margin-bottom: 8px;">International World Wide Web Conference (<strong>WWW</strong>)</li>
   <li style="margin-bottom: 8px;">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)</li>
   <li style="margin-bottom: 8px;">International Conference on Machine Learning (<strong>ICML</strong>)</li>
   <li style="margin-bottom: 8px;">AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)</li>
   <li style="margin-bottom: 8px;">International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</li>
   <li style="margin-bottom: 8px;">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)</li>
   <li style="margin-bottom: 8px;">ACM International Conference on Multimedia (<strong>MM</strong>)</li>
+</ul>
+
+<h2>🎯 Editorial Board</h2>
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
+  <li style="margin-bottom: 8px;">Neuroelectronics (<strong>NEJ</strong>), Youth Editorial Board Member</li>
 </ul>
 
 <!--
