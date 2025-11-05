@@ -16,7 +16,7 @@ html {
 <div style="font-family: 'Times New Roman', serif; text-align: justify;">
 <p>I am currently a Postdoctoral Researcher at Nanyang Technological University (NTU), working with <a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ">Prof. Yang Liu</a>. Previously, I received my PhD from the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a>. I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021. During my PhD studies, I was a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a>.</p>
 
-<p>My research interests primarily focus on:</p>
+<p>My research interests are broadly in machine learning and primarily focus on:</p>
 <ul>
     <li>Sensor-based time series analysis</li>
     <li>Brain-computer interfaces (BCI)</li>
@@ -25,7 +25,7 @@ html {
     <li>Neuro AI</li>
 </ul>
 
-<div style="font-family: 'Times New Roman', serif; font-size: 20px; color: red; text-align: justify;">
+<div style="font-family: 'Times New Roman', serif; color: red; text-align: justify;">
 If you are interested in collaborating on topics such as time series analysis, BCI, brain foundation/LLM models, and other related areas, I warmly welcome potential collaborators and research interns—feel free to reach out!
 </div>
 
