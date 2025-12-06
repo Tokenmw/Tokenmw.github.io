@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 <div style="font-family: 'Times New Roman', serif; text-align: justify;">
-
+  
+<h2>🎯 Editorial Board</h2>
+<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
+  <li style="margin-bottom: 8px;">Neuroelectronics (<strong>NEJ</strong>), Youth Editorial Board Member</li>
+  <li style="margin-bottom: 8px;">Journal of Visualized Experiments (<strong>JoVE</strong>), Guest Editor</li>
+</ul>
+  
 <h2>🔍 Journal Reviewer</h2>
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
   <li style="margin-bottom: 8px;">IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>)</li>
@@ -43,11 +49,6 @@ author_profile: true
   <li style="margin-bottom: 8px;">International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>)</li>
   <li style="margin-bottom: 8px;">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)</li>
   <li style="margin-bottom: 8px;">ACM International Conference on Multimedia (<strong>MM</strong>)</li>
-</ul>
-
-<h2>🎯 Editorial Board</h2>
-<ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
-  <li style="margin-bottom: 8px;">Neuroelectronics (<strong>NEJ</strong>), Youth Editorial Board Member</li>
 </ul>
 
 <!--
