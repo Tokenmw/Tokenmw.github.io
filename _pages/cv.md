@@ -14,10 +14,10 @@ html {
 
 <!-- About Me -->
 <div style="font-family: 'Times New Roman', serif; text-align: justify;">
-<p>I am currently a Postdoctoral Researcher at Nanyang Technological University (NTU), working with <a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ">Prof. Yang Liu</a>. Previously, I received my PhD from the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a> (IAPR Fellow). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021. During my PhD studies, I was also a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a> (IEEE Fellow).</p>
+<p style="margin-bottom: 5px;">I am currently a Postdoctoral Researcher at Nanyang Technological University (NTU), working with <a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ">Prof. Yang Liu</a>. Previously, I received my PhD from the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a> (IAPR Fellow). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021. During my PhD studies, I was also a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a> (IEEE Fellow).</p>
 
 <p style="margin-bottom: 2px;">My research interests are broadly in machine learning and primarily focus on:</p>
-<ul style="list-style-type: circle; margin: 0; padding-left: 20px;">
+<ul style="list-style-type: circle; margin-bottom: 5px; padding-left: 20px;">
     <li style="margin-bottom: 4px;">Sensor-based Time Series Analysis</li>
     <li style="margin-bottom: 4px;">Brain-Computer Interfaces (BCI)</li>
     <li style="margin-bottom: 4px;">Domain Adaptation</li>
