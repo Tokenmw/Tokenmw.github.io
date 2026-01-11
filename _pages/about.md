@@ -22,11 +22,11 @@ html, body, p, ul, li, div {
 
 <p style="margin-bottom: 2px;">My research interests are broadly in machine learning and primarily focus on:</p>
 <ul style="list-style-type: circle; margin: 0; padding-left: 20px;">
-    <li style="margin-bottom: 4px;">Sensor-based Time Series Analysis</li>
-    <li style="margin-bottom: 4px;">Brain-Computer Interfaces (BCI)</li>
-    <li style="margin-bottom: 4px;">Domain Adaptation</li>
-    <li style="margin-bottom: 4px;">Foundation Models and Large Language Models (LLMs)</li>
-    <li style="margin-bottom: 4px;">Neuro AI</li>
+    <li style="margin-bottom: 4px; margin-left: 20px;">Sensor-based Time Series Analysis</li>
+    <li style="margin-bottom: 4px; margin-left: 20px;">Brain-Computer Interfaces (BCI)</li>
+    <li style="margin-bottom: 4px; margin-left: 20px;">Domain Adaptation</li>
+    <li style="margin-bottom: 4px; margin-left: 20px;">Foundation Models and Large Language Models (LLMs)</li>
+    <li style="margin-bottom: 4px; margin-left: 20px;">Neuro AI</li>
 </ul>
 
 <div style="color: red; text-align: justify;">
