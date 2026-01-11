@@ -29,6 +29,9 @@ html {
 📪If you are interested in collaborating on topics such as Time Series Analysis, BCI, Brain Foundation/LLM Models, and other related areas, I warmly welcome potential collaborators and research interns—feel free to reach out! I also welcome inquiries from CSC scholarship students and visiting students/scholars who are interested in conducting research in these areas.
 </div>
 
+<!-- 👇 添加这行：强制减少下方空白 -->
+<div style="margin-top: -20px;"></div>
+
 <!-- News -->
 {% include_relative news.md %}
 
