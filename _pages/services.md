@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-<div style="font-family: 'Times New Roman', serif; text-align: justify;">
+<div style="text-align: justify;">
   
 <h2>🎯 Editorial Board</h2>
 <ul style="list-style-type: disc; margin-left: 20px; line-height: 1.2;">
