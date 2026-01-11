@@ -16,6 +16,9 @@ html, body, p, ul, li, div {
 }
 </style>
 
+<!-- 主容器：响应式宽度（推荐） -->
+<div style="max-width: min(90%, 1800px); margin: 0 auto; padding: 0 15px;">
+  
 <!-- About Me -->
 <div style="text-align: justify;">
 <p style="margin-bottom: 5px;">I am currently a Postdoctoral Researcher at Nanyang Technological University (NTU), working with <a href="https://scholar.google.com/citations?user=_Pvgwd0AAAAJ">Prof. Yang Liu</a>. Previously, I received my PhD from the <a href="https://ibrain.nuaa.edu.cn/">iBRAIN Lab</a> at Nanjing University of Aeronautics and Astronautics, supervised by <a href="https://parnec.nuaa.edu.cn/zhangdq/">Prof. Daoqiang Zhang</a> (IAPR Fellow). I received my M.S. degree in Computer Science & Technology from Beijing Jiaotong University in 2021. During my PhD studies, I was also a visiting PhD student at the Institute of Infocomm Research, A*STAR, supervised by <a href="https://personal.ntu.edu.sg/xlli/">Prof. Xiaoli Li</a> (IEEE Fellow).</p>
@@ -46,4 +49,5 @@ html, body, p, ul, li, div {
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
 </div> -->
+</div>
 </div>
