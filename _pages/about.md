@@ -17,7 +17,7 @@ html, body, p, ul, li, div {
 </style>
 
 <!-- 主容器：响应式宽度（推荐） -->
-<div style="max-width: min(90%, 1800px); margin: 0 auto; padding: 0 15px;">
+<!-- <div style="max-width: min(90%, 1800px); margin: 0 auto; padding: 0 15px;"> -->
   
 <!-- About Me -->
 <div style="text-align: justify;">
@@ -50,4 +50,4 @@ html, body, p, ul, li, div {
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
 </div> -->
 </div>
-</div>
+<!-- </div> -->
