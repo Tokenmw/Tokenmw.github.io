@@ -5,7 +5,13 @@ permalink: /contact/
 author_profile: true
 ---
 
-<div style="font-family: 'Times New Roman', serif; font-size: 20px;">
+<style>
+html, body, p, ul, li, div {
+  font-family: Georgia, "Times New Roman", serif;
+}
+</style>
+
+<div style="font-size: 20px;">
 
 <h5 style="font-weight: bold; margin-bottom: 20px;">Contact Information:</h5>
 <ul style="list-style-type: disc; margin-left: 20px;">
