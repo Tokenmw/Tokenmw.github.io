@@ -5,6 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
+<style>
+html, body, p, ul, li, div {
+  font-family: Georgia, "Times New Roman", serif;
+}
+</style>
+
 <div style="text-align: justify;">
   
 <h2>🎯 Editorial Board</h2>
