@@ -44,10 +44,10 @@
 
 /* ========== 覆盖主题默认内容宽度 ========== */
 
-// .page__content {
-//   max-width: min(90%, 1800px) !important;
-//   padding-left: 20px !important;
-//   padding-right: 20px !important;
-//   margin-left: 0 !important;
-//   margin-right: auto !important;
-// }
+.page__content {
+  max-width: min(90%, 1800px) !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
