@@ -1,5 +1,5 @@
 <!-- News section -->
-<div id="news" style="font-family: 'Times New Roman', serif; text-align: justify;">
+<div id="news" style="text-align: justify;">
 <h2>🔥 News</h2>
 <ul style="list-style-type: none; margin-left: 20px; padding: 2px; overflow-y: scroll; height:400px;">
   <li style="margin-bottom: 8px;"><b>[2026-01]</b> One paper was accepted by <b><i>Neural Networks</i></b>, thanks all co-authors.</li>
