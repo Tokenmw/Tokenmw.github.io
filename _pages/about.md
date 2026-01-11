@@ -17,7 +17,7 @@ html, body, p, ul, li, div {
 </style>
 
 <!-- 主容器：控制整体宽度 -->
-<div style="max-width: 1500px; margin: 0 auto; padding: 0 20px;">
+<div style="max-width: 85%; margin: 0 auto; padding: 0 20px;">
 
 <!-- About Me -->
 <div style="text-align: justify;">
