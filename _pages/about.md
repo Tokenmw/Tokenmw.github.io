@@ -43,11 +43,10 @@ html, body, p, ul, li, div {
 {% include_relative news.md %}
 
 <!-- Visitor Map -->
-<!--
-<div style="font-family: 'Times New Roman', serif; margin-top: -50px;">
+<div style="margin-top: -20px;">
 <h2>🌍 Visitors Map</h2>
 <div style="text-align: center; transform: scale(0.25); transform-origin: top center;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5st2g4bl81qeCCobOUfMInvv1O7ym540NlzpNwnL1-I"></script>
-</div> -->
+</div>
 </div>
 </div>
