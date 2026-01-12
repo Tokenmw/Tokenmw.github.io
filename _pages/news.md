@@ -1,7 +1,8 @@
 <!-- News section -->
 <div id="news" style="text-align: justify;">
 <h2>🔥 News</h2>
-<ul style="list-style-type: none; margin-left: 20px; padding: 2px; overflow-y: scroll; height:400px;">
+<!-- <ul style="list-style-type: none; margin-left: 20px; padding: 2px; overflow-y: scroll; height:400px;"> -->
+  <ul style="list-style-type: none; margin-left: 20px; padding: 2px;">
   <li style="margin-bottom: 8px;"><b>[2026-01]</b> One paper was accepted by <b><i>Neural Networks</i></b>, thanks all co-authors.</li>
   <li style="margin-bottom: 8px;">
   <b>[2025-12]</b>[Call For Paper] Honored to serve as Guest Editor for the <b><i>JoVE</i></b> Topical Collection 
