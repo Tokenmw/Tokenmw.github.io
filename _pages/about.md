@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <style>
-html {
+/* html {
   scroll-behavior: smooth;
-}
+} */
 html, body, p, ul, li, div {
   font-family: Georgia, "Times New Roman", serif;
 }
