@@ -48,6 +48,10 @@ html, body, p, ul, li, div {
 
   <li>TFAC-Net: a temporal-frequential attentional convolutional network for driver drowsiness recognition with single-channel EEG.<br><b>Peiliang Gong</b>, Pengpai Wang, Yueying Zhou, Xuyun Wen, Daoqiang Zhang<br>In: IEEE Transactions on Intelligent Transportation Systems (<strong>TITS</strong>), 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10533850/">preprint</a>]
   </li>
+
+  <li>A dual-adversarial model for cross-time and cross-subject cognitive workload decoding.<br>Yang Shao, Yueying Zhou, <b>Peiliang Gong</b>, Qianru Sun, Daoqiang Zhang<br>In: 
+IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>), 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10559607">preprint</a>]
+  </li>
   
   <li>Cross-subject cognitive workload recognition based on EEG and deep domain adaptation.<br>Yueying Zhou, Pengpai Wang, <b>Peiliang Gong</b>, Fulin Wei, Xuyun Wen, Xia Wu, Daoqiang Zhang<br>In: IEEE Transactions on Instrumentation and Measurement (<strong>TIM</strong>), 2024. [<a href="https://ieeexplore.ieee.org/abstract/document/10163950/">preprint</a>]
   </li>
