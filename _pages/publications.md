@@ -31,6 +31,9 @@ html, body, p, ul, li, div {
 <h3>Journal</h3>
 
 <ul style="list-style-type:disc">
+  <li>Exploring Cognitive Workload Recognition Using CogRepLKNet with EEG-fMRI.<br>Yang Shao, Yueying Zhou, Xuyun Wen, <b>Peiliang Gong#</b>, Qun Dai, Daoqiang Zhang<br>In: Neural Networks (<strong>NN</strong>), in press, 2026. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026000389">preprint</a>]
+  </li>
+  
   <li>Evidentially Calibrated Source-Free Time-series Domain Adaptation with Temporal Imputation.<br>Mohamed Ragab*, <b>Peiliang Gong*</b>, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, Zhenghua Chen<br> In: IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), in press, 2025. [<a href="https://ieeexplore.ieee.org/document/11208792">preprint</a>]
   </li>
   
