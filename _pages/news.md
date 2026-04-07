@@ -9,7 +9,7 @@
     <b><i>👉 Emerging Frontiers in EEG-based BCI: Robust Decoding, Clinical Applications, and Generative Reconstruction</i></b>
   </a>". We warmly welcome submissions on related works!
   </li>
-  <li style="margin-bottom: 8px;"><b>[2026-04]</b> One paper was accepted by <b><i>ACL Main</i></b>, thanks all co-authors.</li>
+  <li style="margin-bottom: 8px;"><b>[2026-04]</b> One paper was accepted by <b><i>ACL Main Conference</i></b>, thanks all co-authors.</li>
   <li style="margin-bottom: 8px;"><b>[2026-03]</b> One paper was accepted by <b><i>IEEE TPAMI</i></b>, thanks all co-authors.</li>
   <li style="margin-bottom: 8px;"><b>[2026-03]</b> One paper was accepted by <b><i>IEEE TNNLS</i></b>, thanks all co-authors.</li>
   <li style="margin-bottom: 8px;"><b>[2026-02]</b> One paper was accepted by <b><i>IEEE JBHI</i></b>, thanks all co-authors.</li>
