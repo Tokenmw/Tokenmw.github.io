@@ -19,18 +19,20 @@ html, body, p, ul, li, div {
 
 <h2>📝 Selected Publications</h2>
 
-<h3>Preprints</h3>
+<!-- <h3>Preprints</h3>
 
 <ul style="list-style-type:disc">
 <li>Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation.<br>Yucheng Wang, <b>Peiliang Gong</b>, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, Zhenghua Chen<br> arXiv:2409.19635, 2024. [<a href="https://arxiv.org/abs/2409.19635">arXiv</a>]
 </li>
 
-</ul>
-
+</ul> -->
 
 <h3>Journal</h3>
 
 <ul style="list-style-type:disc">
+
+  <li>Bridging Distribution Gaps in Time Series Foundation Model Pretraining With Prototype-Guided Normalization. <b>Peiliang Gong</b>, Emadeldeen Eldele, Min Wu, Zhenghua Chen, Xiaoli Li, Daoqiang Zhang<br> In: IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), in press, 2026. [<a href="https://ieeexplore.ieee.org/document/11477883">preprint</a>]
+  </li>
 
   <li>Evidentially Calibrated Source-Free Time-series Domain Adaptation with Temporal Imputation.<br>Mohamed Ragab*, <b>Peiliang Gong*</b>, Emadeldeen Eldele, Wenyu Zhang, Min Wu, Chuan-Sheng Foo, Daoqiang Zhang, Xiaoli Li, Zhenghua Chen<br> In: IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), in press, 2025. [<a href="https://ieeexplore.ieee.org/document/11208792">preprint</a>][Co-first]
   </li>
@@ -42,6 +44,9 @@ html, body, p, ul, li, div {
   </li>
 
   <li>A spiking neural network with adaptive graph convolution and LSTM for EEG-based brain-computer interfaces.<br><b>Peiliang Gong</b>, Pengpai Wang, Yueying Zhou, Daoqiang Zhang<br>In: IEEE Transactions on Neural Systems and Rehabilitation Engineering (<strong>TNSRE</strong>), 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10049464">preprint</a>]
+  </li>
+
+  <li>Temporal Source Recovery for Time-Series Source-Free Unsupervised Domain Adaptation. <br>Yucheng Wang, <b>Peiliang Gong</b>, Min Wu, Felix Ott, Xiaoli Li, Lihua Xie, Zhenghua Chen<br>In: IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), in press, 2026. [<a href="https://ieeexplore.ieee.org/document/11475771">preprint</a>]
   </li>
 
   <li>Exploring Cognitive Workload Recognition Using CogRepLKNet with EEG-fMRI.<br>Yang Shao, Yueying Zhou, Xuyun Wen, <b>Peiliang Gong#</b>, Qun Dai, Daoqiang Zhang<br>In: Neural Networks (<strong>NN</strong>), in press, 2026. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608026000389">preprint</a>][Corresponding]
